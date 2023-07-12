@@ -13,7 +13,7 @@ Assignments:
 + 1 project 
 
 # Solutions
-## 1-knock-knock
+## 1-knock_knock
 
 From the python file, we can assume that the second parameter is where the flag is saved, in the form of pair <pos, char>. The attacker then encoded all the characters as unicode and used them as the destination ports separatedly. 
 
@@ -35,7 +35,7 @@ Flag : FOR2020{N0tSoStealthy}
 
 Flag : FOR2020{BadJournalsF0rN00bs}
 
-# 3-poor_ransomware
+## 3-poor_ransomware
 
 1. List all the proccesses presented in **dump.bz2** with `python ../volatility/vol.py -f dump linux_malfind --profile=LinuxUbuntu_4_15_0-101-generic_profilex64 | grep Pid`, to have an overview, and noticed that many possible malicious processes were web-based
 2. List all the processes that contain *firefox* or *chrome* with `python ../volatility/vol.py -f dump linux_psscan --profile=LinuxUbuntu_4_15_0-101-generic_profilex64 | grep firefox`, of which the process with pid 1076, 1042, 1320 were suspicious
