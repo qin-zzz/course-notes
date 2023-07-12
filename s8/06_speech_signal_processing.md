@@ -1,5 +1,5 @@
 Credit: 2.5ECTS
-Professor: Nicolas
-Exam: Yes
+Professor: EVANS Nicholas
+Exam: Yes, no documents allowed
 Lab: 
-+ One report required
++ One lab report required, you don't implement any code, but to explain the phenomenon

@@ -1,5 +1,5 @@
 Credit: 5ECTS
-Professor: Davide Balzarotti
+Professor: BALZAROTTI Davide
 Exam: No
 Assignment: 
 + 1 quiz for malware classification

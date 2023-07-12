@@ -1,6 +1,6 @@
 Credit: 5ECTS
-Professor: Maurrizio
-Exam: Yes
+Professor: FILIPPONE Maurizio
+Exam: Yes, no documents allowed
 Lab: 
 + 1 for Bayessian Regression
 + 1 for Gaussian process regression

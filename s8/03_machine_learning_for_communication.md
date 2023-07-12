@@ -1,6 +1,6 @@
 Credit: 5ECTS
-Professor: Marios
-Exam: Yes, no document allowed
+Professor: KOUNTOURIS Marios
+Exam: Yes, no documents allowed
 Project: optional
 Lab: 
 + 1 for neural network
