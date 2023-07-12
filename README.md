@@ -6,5 +6,7 @@ The courses I took in master's study
   - Malcom
   - DeepLearning
   - ASI
+  - AML
   - Speech
   - FormalMet
+  - AwaRe
