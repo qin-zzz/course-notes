@@ -9,7 +9,6 @@ The courses I took in master's study
   - MobiSec
   - WebInt
 - s8
-  - Teamlead
   - Forensics
   - Malcom
   - DeepLearning
@@ -18,3 +17,8 @@ The courses I took in master's study
   - Speech
   - FormalMet
   - AwaRe
+- s9
+  - MobServ
+  - Optim
+  - BigSec
+  - MobMod
