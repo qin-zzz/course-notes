@@ -1,5 +1,13 @@
 # course-notes
 The courses I took in master's study
+- s7
+  - OS
+  - MALIS
+  - Clouds
+  - Softdev
+  - DBSYS
+  - MobiSec
+  - WebInt
 - s8
   - Teamlead
   - Forensics
