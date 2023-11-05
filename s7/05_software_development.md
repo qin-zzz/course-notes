@@ -1,4 +1,4 @@
-Credit: 5 ECTS
+Credit: 2.5 ECTS
 
 Professor: BALZAROTTI Davide
 
